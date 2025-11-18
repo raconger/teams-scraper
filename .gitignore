@@ -4,7 +4,7 @@ token_cache.bin
 
 # Output
 transcripts/
-*.md
+parsed_transcripts/
 
 # Python
 __pycache__/
